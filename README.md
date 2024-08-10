@@ -13,13 +13,15 @@ Bem-vindo ao **Jogo da Memória**! Este é um jogo simples desenvolvido com HTML
 
 ### Tela de Login
 
-![Tela de Login](./images/screenshot-login.png)
+![tela de login](https://github.com/user-attachments/assets/d7e6d9b2-c1c6-44b2-9d8f-affc18d1ec80)
+
 
 Descrição da tela de login. Aqui você insere seu nome e clica em "Jogar" para iniciar o jogo.
 
 ### Jogo da Memória
 
-![Jogo da Memória](./images/screenshot-game.png)
+![jogo](https://github.com/user-attachments/assets/3e0c5ea3-a956-4d5d-9873-aa6e0845cec3)
+
 
 Descrição do jogo da memória. Você deve combinar pares de cartas para vencer.
 
@@ -57,5 +59,5 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ## Contato
 
-Para dúvidas ou sugestões, entre em contato com o desenvolvedor através do e-mail: [seuemail@example.com](mailto:seuemail@example.com).
+Para dúvidas ou sugestões, entre em contato com o desenvolvedor através do e-mail: [jean.js.1998@gmail.com](mailto:jean.js.1998@gmail.com).
 
