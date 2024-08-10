@@ -1,0 +1,22 @@
+/* limpando as configurações do navegador:
+https://meyerweb.com/eric/tools/css/reset/ */
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  border: none;
+  font-family: 'Homer_Simpsons_Revised', cursive;
+}
+
+/* Carregar fontes personalizadas com CSS */
+@font-face {
+  font-family: 'Homer_Simpsons_Revised';
+  src: url('/memory-game-main/Homer-Simpson.ttf') format('trueType');
+}
+body{
+ background-image: url("Fundo.jfif");
+ background-size: 100%;
+}
